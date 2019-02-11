@@ -1,18 +1,18 @@
 **LOYAL**
 
-* Primaris Intercessors
+* Primaris Intercessor
 ***[Nuker]***
 
 * Primaris Librarian
 ***[Support]***
 
-* Assault Squad 
+* Assault Spacemarine
 ***[Ganker]***
 
-* Devastator Squad
+* Devastator 
 ***[Nuker]***
 
-* Deathwing Terminator Squad
+* Deathwing Terminator 
 ***[Tank]***
 
 **CHAOS**
