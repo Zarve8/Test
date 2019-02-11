@@ -1,11 +1,10 @@
 **LOYAL**
 
 * Primaris Intercessors
-***[Nuker]***
+****[Nuker]****
 
 * Primaris Librarian
-***
-[Support]***
+***[Support]***
 
 * Assault Squad 
 ***[Ganker]***
