@@ -23,6 +23,10 @@
 * Havoc
 **[Nuker]**
 
+* Sorcerer
+**[Support]**
+
+
 
 
 **XENOS**
