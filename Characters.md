@@ -3,10 +3,11 @@
 * Primaris Intercessors
 ***[Nuker]***
 
-* Primaris Librarian 
-***[Support]***
+* Primaris Librarian
+***
+[Support]***
 
-* Assault Squad
+* Assault Squad 
 ***[Ganker]***
 
 * Devastator Squad
