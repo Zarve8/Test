@@ -46,5 +46,7 @@
 * Wraith Lord
 **[Tank]**
 
+* Warp Spiders
+**[Nuker/Ganker]**
 
 
