@@ -23,20 +23,28 @@
 * Havoc
 **[Nuker]**
 
-* Sorcerer
+* Mutalith Vortex Beast
+**[Support/Tank]**
+
+* Blightlord Terminators
+**[Tank]**
+
+* Exalted Sorcerers
 **[Support]**
-
-
-
 
 **XENOS**
 
 * Illuminor szeras
 **[Support]**
 
-* Warp Spider
+* Triarch pretorians
 **[Ganker]**
+
+* Fire Dragon
+**[Nuker]**
 
 * Wraith Lord
 **[Tank]**
+
+
 
