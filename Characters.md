@@ -17,13 +17,20 @@
 
 **CHAOS**
 
+* Raptors
+**[Ganker]**
+
+* Havoc
+**[Nuker]**
+
 
 
 **XENOS**
+
 * Illuminor szeras
 **[Support]**
 
-* Warp Spiders
+* Warp Spider
 **[Ganker]**
 
 * Wraith Lord
