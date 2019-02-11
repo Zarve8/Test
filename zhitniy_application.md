@@ -6,7 +6,7 @@
 ### Электронная почта: **gzhitniy@icloud.com**
 ### VK: **https://vk.com/id223946798**
 #### **[ НАЗВАНИЕ ПРОЕКТА ]**
-"**21's Son**" - игра по вселенной wh40k
+"**MAELSTROM OF WAR**" - игра по вселенной wh40k
 #### **[ ПРОБЛЕМНОЕ ПОЛЕ ]**
 
 Малое количество игр по вселенной Warhammer 40000.
@@ -15,57 +15,49 @@
 
 •	Фан база этой вселенной
 
-•	Любители играть в старые 2d игры
+• 
 
 #### **[ АППАРАТНЫЕ ТРЕБОВАНИЯ ]**
 
 Минимальные системные требования:
-
-64 битный процессор с тактовой частотой 1,2 ГГц, 512 МБ оперативный памяти,
-
-Windows 7, клавиатура и мышь.
-
+* Операционная система
+Windows® 7 / Windows® 8 / Windows® 10 64-bit с 
+* Процессор
+Intel® Core™ i5 или AMD Phenom™ II X3 или лучше
+* Видеокарта
+NVIDIA® GeForce® GTX 660 или AMD Radeon™ HD 7950 или лучше
+* Оперативная память
+6 GB RAM
 #### **[ ФУНКЦИОНАЛЬНЫЕ ТРЕБОВАНИЯ ]**
 
-Программа представляет собой одиночную 8 битную 2d игру 
+Программа представляет мультиплеерный 3d шутер
 
-Программа представляет возможности:
-
-•	Играть в нее
-
-•	Изменять настройки 
-
-•	Загружать главы по мере прохождения кампании 
-
-•	Сохраняться и загружаться 
-
-• Выходить из игры
 
 #### **[ ПОХОЖИЕ / АНАЛОГИЧНЫЕ ПРОДУКТЫ ]**
+* Down of War 3 - 
+https://store.steampowered.com/app/285190/Warhammer_40000_Dawn_of_War_III/
+* Space Hulk - 
+https://store.steampowered.com/app/298900/Space_Hulk_Deathwing/
+* Batlefleet Gothic Armada - 
+https://store.steampowered.com/search/?snr=1_5_9__12&term=batlefleet+gothic+armada
+* Inquisitor Martyr - 
+https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
 
-“Hotline Miami” в стиме: https://store.steampowered.com/app/219150/Hotline_Miami/
-
-“FINAL FANTASY”
-
-“Hyper Light Drifter” в стиме: https://store.steampowered.com/app/257850/Hyper_Light_Drifter/
-
-“Undertale” в стиме: https://store.steampowered.com/app/391540/Undertale/
-
-“Papers Please” в стиме: https://store.steampowered.com/app/239030/Papers_Please/
 
 #### **[ ИНСТРУМЕНТЫ РАЗРАБОТКИ ]**
+* Unreal Engine 4
 
-•	С++/Visual Studio
+*	С++/Visual Studio
 
-•	Java & CSS/JDeveloper – среда разработки Java и CSS для Windows
+*	SolidWorks
 
 #### **[ ЭТАПЫ РАЗРАБОТКИ ]**
 
-1.	Разработка сценария и карты уровней
+1.	Создание 3d моделей и текстур
 
-2.	Написание платформы
+2.  Програмирование механики игры
 
-3.	Создание текстур
+3.  Програмирование ботов
 
 4.	Сборка всех частей вместе и запуск и отладка программы
 
