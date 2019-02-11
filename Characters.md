@@ -1,7 +1,7 @@
 **LOYAL**
 
 * Primaris Intercessors
-****[Nuker]****
+***[Nuker]***
 
 * Primaris Librarian
 ***[Support]***
