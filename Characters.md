@@ -20,3 +20,12 @@
 
 
 **XENOS**
+* Illuminor szeras
+**[Support]**
+
+* Warp Spiders
+**[Ganker]**
+
+* Wraith Lord
+**[Tank]**
+
