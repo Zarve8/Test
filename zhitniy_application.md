@@ -34,13 +34,13 @@ NVIDIA® GeForce® GTX 660 или AMD Radeon™ HD 7950 или лучше
 
 
 #### **[ ПОХОЖИЕ / АНАЛОГИЧНЫЕ ПРОДУКТЫ ]**
-* Down of War 3 - 
+* Down of War 3 - плохая графика, неудобное управление, кривой баланс
 https://store.steampowered.com/app/285190/Warhammer_40000_Dawn_of_War_III/
-* Space Hulk - 
+* Space Hulk - однообразный геемплей, баги, криво написанные боты
 https://store.steampowered.com/app/298900/Space_Hulk_Deathwing/
-* Batlefleet Gothic Armada - 
-https://store.steampowered.com/search/?snr=1_5_9__12&term=batlefleet+gothic+armada
-* Inquisitor Martyr - 
+* Gladius - Relics of War - кривой баланс, из вахи только текстурки(Сiva), устаревшая графика
+https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/?snr=1_7_7_151_150_1
+* Inquisitor Martyr - однообразный геемплей, отсутсвие атмосферы, сервера постоянно ложатся, а в офлайне играть нельзя
 https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
 
 
