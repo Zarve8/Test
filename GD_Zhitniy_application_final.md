@@ -54,7 +54,7 @@ https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
 #### **[ ИНСТРУМЕНТЫ РАЗРАБОТКИ ]**
 * Unreal Engine 4
 
-*	С++/Visual Studio
+*	Maya
 
 *	SolidWorks
 
